@@ -25,6 +25,6 @@ Remote.OnServerEvent:Connect(function(player)
 end)
 
 -- The client only triggers the action (FireServer) and does not directly modify the player's score.
--- O servidor é a fonte da verdade e lida com todas as alterações no atributo Score do jogador.
--- O script garante que o atributo seja criado caso não exista e o incrementa de forma segura.
--- Validações adicionais (verificação de distância, limite de taxa ou outras medidas de segurança) podem ser adicionadas em projetos reais.
+-- The server is the source of truth and handles all changes to the player's Score attribute.
+-- The script ensures the attribute is created if it does not exist and increments it safely.
+-- Additional validations (distance checks, rate limiting, or other security measures) can be added in reak projects.
