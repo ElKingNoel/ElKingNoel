@@ -38,6 +38,3 @@ Ainda não tenho projetos publicados, mas fique de olho! Em breve você verá aq
 
 > “O que realmente te faz crescer é o que você faz com o que tem agora.”
 
----
-
-💡 **Dica:** se quiser me acompanhar nessa jornada, siga meu GitHub e fique de olho nos repositórios que ainda vão nascer!
