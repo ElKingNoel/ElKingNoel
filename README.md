@@ -1,40 +1,40 @@
-# Olá! Eu sou o ElKingNoel 👑 (Lucas)
+# Hello! I'm ElKingNoel 👑 (Lucas)
 
-Seja bem-vindo ao meu cantinho no GitHub!  
+Welcome to my little corner on GitHub!  
 
-Atualmente, estou começando minha jornada como desenvolvedor e explorando várias tecnologias, especialmente **Lua** e **Python**. Aqui vou compartilhar meus projetos, aprendizados e experimentos.  
-
----
-
-## Sobre mim
-- 🎮 Apaixonado por jogos e desenvolvimento no Roblox
-- 💻 Estudante de programação
-- 🛠 Buscando criar projetos que sejam tanto divertidos quanto desafiadores
-- 🚀 Objetivo: construir portfólio sólido e compartilhar conhecimento
+I'm just starting my journey as a developer and exploring various technologies, especially **Lua** and **Python**. Here, I'll be sharing my projects, learnings, and experiments.  
 
 ---
 
-## Tecnologias que estou explorando
-- **Linguagens:** ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-- **Linguagem futura:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **Ferramentas:** Roblox Studio, Git/GitHub, VS Code
-- **Áreas de interesse:** Desenvolvimento de jogos e anti-cheats
+## About Me
+- 🎮 Passionate about gaming and Roblox development
+- 💻 Programming student
+- 🛠 Looking to create projects that are both fun and challenging
+- 🚀 Goal: build a solid portfolio and share knowledge
 
 ---
 
-## Projetos
-Ainda não tenho projetos publicados, mas fique de olho! Em breve você verá aqui:
-- Scripts para Roblox
-- Sistemas de anti-cheat
-- E quem sabe algum jogo épico!
+## Technologies I'm Exploring
+- **Languages:** Lua and a bit of Python
+- **Tools:** Roblox Studio, Git/GitHub, VS Code
+- **Areas of Interest:** Game development and anti-cheats
 
 ---
 
-## Contato 
+## Projects
+I don't have published projects yet, but stay tuned! Soon you'll see here:
+- Roblox scripts
+- Anti-cheat systems
+- And maybe some epic games!
+
+---
+
+## Contact
 - Discord: `@adonaiyeshua`  
 - Email: `lucasruivao@gmail.com`
 
 ---
 
-> “O que realmente te faz crescer é o que você faz com o que tem agora.”
+> “What really makes you grow is what you do with what you have right now.”
 
+---
