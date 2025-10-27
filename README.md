@@ -16,6 +16,7 @@ Atualmente, estou começando minha jornada como desenvolvedor e explorando vári
 
 ## Tecnologias que estou explorando
 - **Linguagens:** ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+- **Linguagem futura:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Ferramentas:** Roblox Studio, Git/GitHub, VS Code
 - **Áreas de interesse:** Desenvolvimento de jogos e anti-cheats
 
